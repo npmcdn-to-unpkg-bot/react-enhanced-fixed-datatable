@@ -1,0 +1,32 @@
+{
+  "name": "react-enhanced-fixed-datatable",
+  "version": "0.0.0",
+  "description": "EnhancedFixedDatatable",
+  "main": "dist/react-enhanced-fixed-datatable.min.js",
+  "homepage": "https://github.com/cBioPortal/enhanced-fixed-datatable",
+  "authors": [
+    "cBioPortal"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ],
+  "dependencies": {
+    "bootstrap-dropdown-checkbox": "~0.1.2"
+  }
+}
